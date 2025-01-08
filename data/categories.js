@@ -64,7 +64,7 @@ export const defaultCategories = [
     id: "groceries",
     name: "Groceries",
     type: "EXPENSE",
-    color: "#84cc16", // lime-500
+    color: "#669a11", // lime-500
     icon: "Shopping",
   },
   {
