@@ -90,28 +90,6 @@ Monitor and manage all your accounts in one centralized dashboard with our intui
    - Secure authentication
    - Regular security updates
 
-## 🚀 Getting Started
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/prospr.git
-```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-3. Configure environment variables
-```bash
-cp .env.example .env.local
-```
-
-4. Start the development server
-```bash
-npm run dev
-```
-
 ## 📄 License
 
 prospr. is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
